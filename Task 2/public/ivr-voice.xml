@@ -1,0 +1,8 @@
+<Response>
+    <Gather action="/ivr-response" numDigits="1">
+        <Play>https://drive.google.com/file/d/1eWYDfffUoNXw_JnMrZVTOzz5mjOGvwt0/view?usp=sharing</Play>
+        <Say>Thank you for your interest. Please press 1 to receive your interview link.</Say>
+    </Gather>
+</Response>
+
+ 
